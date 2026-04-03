@@ -12,8 +12,8 @@ Hawaii Circuit Court: Referendums and Memorandums (publish only in Hawaii for la
 
 2014:
 
-clipObject.docx  A recursive Decomposition Algorith.  Written originally in 1995. Updated.
 
+clipObject.docx  A recursive Decomposition Algorith.  Written originally in 1995. Updated.
 ipwap_paper.docx  Integrating IPv6 with WAP.  Written originally in 2010, Updated.
 
 
