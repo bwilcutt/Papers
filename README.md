@@ -25,18 +25,21 @@ ipwap_paper.docx  Integrating IPv6 with WAP.  Written originally in 2010, Update
 2020
 
 (Curious Internet write-ups, still available on web.archive.org)
+
 Spotlight Animoto
 
 
 2012
 
 (Curious Internet write-ups, still available on web.archive.org)
+
 The Scam Man Cometh
 
 
 2011
 
 (Curious Internet write-ups, still available on web.archive.org)
+
 God Starts Blog Gets Lousey Hit Score
 Internet History In A Nutshell
 Safe Game Place For Kids
