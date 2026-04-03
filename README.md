@@ -5,7 +5,7 @@ I've included all the titles below.
 
 1993
 
-Hawaii Circuit Court: Referendums and Memorandums (publish only in Hawaii for law firms)
+Hawaii Appellate Reports. Vols. 1-10 (1980-1994) (publish only in Hawaii for law firms)
 
 
 (Available on www.github.com)
