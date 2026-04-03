@@ -1,6 +1,23 @@
 Included here are academic and musings I've written throughout the years.  Some are still available (I post as I get them), some are not.
 I've included all the titles below.
 
+(Co-Authored)
+
+1993:
+
+Hawaii Circuit Court: Referendums and Memorandums (publish only in Hawaii for law firms)
+
+
+(Available on www.github.com)
+
+2014:
+
+clipObject.docx  A recursive Decomposition Algorith.  Written originally in 1995. Updated.
+
+ipwap_paper.docx  Integrating IPv6 with WAP.  Written originally in 2010, Updated.
+
+
+
 (Curious Internet write-ups, still available on web.archive.org)
 
 2020
