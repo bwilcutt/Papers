@@ -62,11 +62,7 @@ Microsoft Offers 250k For Defense Of The Dark Arts
 
 Online Schools Knowing Is More Than...
 
-Popular Today Is Talk Amongst Numerous
-
-Removing Your Information From
-
-Second Lifes Second Life
+Second Life's Second Life
 
 Tail Of Two Internets
 
