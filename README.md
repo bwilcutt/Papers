@@ -19,6 +19,8 @@ ipwap_paper.docx  Integrating IPv6 with WAP.  Written originally in 2010, Update
 
 
 
+
+
 (Curious Internet write-ups, still available on web.archive.org)
 
 2020
